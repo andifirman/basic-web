@@ -1,0 +1,21 @@
+Images : 
+Photo by Spencer on Unsplash
+Photo by Harrison Broadbent on Unsplash
+Photo by Robin Glauser on Unsplash
+Photo by Marília Castelli on Unsplash
+Photo by sergio souza on Unsplash
+Photo by Pedro Lastra on Unsplash
+Photo by ben o'bro on Unsplash
+Photo by Fikri Rasyid on Unsplash
+Photo by Priscilla Du Preez on Unsplash
+Photo by Dylan Ferreira on Unsplash
+Photo by Harrison Broadbent on Unsplash
+
+
+References : 
+https://www.yellowweb.id/blog/membuat-slider-dengan-css/
+
+Icon : 
+https://icons8.com/icons/set/long-arrow-right
+https://icons8.com/icons/set/plus 
+https://icons8.com/icons/set/minus 
